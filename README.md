@@ -75,7 +75,7 @@ git clone https://github.com/vermasaumya226-cyber/AI_Gym_Fitness_Assistant.git
 ### 2. Open Project
 
 ```bash
-cd AI_Gym_Fitness_Assistant
+cd AIGym-Fitness-Project
 ```
 
 ### 3. Install Dependencies
